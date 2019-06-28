@@ -1,0 +1,14 @@
+E:\ASP.NET Core\Core(API)\Core(API)\bin\Debug\netcoreapp2.1\Core(API).deps.json
+E:\ASP.NET Core\Core(API)\Core(API)\bin\Debug\netcoreapp2.1\Core(API).runtimeconfig.json
+E:\ASP.NET Core\Core(API)\Core(API)\bin\Debug\netcoreapp2.1\Core(API).runtimeconfig.dev.json
+E:\ASP.NET Core\Core(API)\Core(API)\bin\Debug\netcoreapp2.1\Core(API).dll
+E:\ASP.NET Core\Core(API)\Core(API)\bin\Debug\netcoreapp2.1\Core(API).pdb
+E:\ASP.NET Core\Core(API)\Core(API)\obj\Debug\netcoreapp2.1\Core(API).csprojAssemblyReference.cache
+E:\ASP.NET Core\Core(API)\Core(API)\obj\Debug\netcoreapp2.1\Core(API).csproj.CoreCompileInputs.cache
+E:\ASP.NET Core\Core(API)\Core(API)\obj\Debug\netcoreapp2.1\Core(API).RazorAssemblyInfo.cache
+E:\ASP.NET Core\Core(API)\Core(API)\obj\Debug\netcoreapp2.1\Core(API).RazorAssemblyInfo.cs
+E:\ASP.NET Core\Core(API)\Core(API)\obj\Debug\netcoreapp2.1\Core(API).AssemblyInfoInputs.cache
+E:\ASP.NET Core\Core(API)\Core(API)\obj\Debug\netcoreapp2.1\Core(API).AssemblyInfo.cs
+E:\ASP.NET Core\Core(API)\Core(API)\obj\Debug\netcoreapp2.1\Core(API).RazorTargetAssemblyInfo.cache
+E:\ASP.NET Core\Core(API)\Core(API)\obj\Debug\netcoreapp2.1\Core(API).dll
+E:\ASP.NET Core\Core(API)\Core(API)\obj\Debug\netcoreapp2.1\Core(API).pdb
