@@ -1,0 +1,14 @@
+E:\FYP\FYP Learning Task\TokenWithAuthentication\OAuth\OAuth\bin\Debug\netcoreapp2.1\OAuth.deps.json
+E:\FYP\FYP Learning Task\TokenWithAuthentication\OAuth\OAuth\bin\Debug\netcoreapp2.1\OAuth.runtimeconfig.json
+E:\FYP\FYP Learning Task\TokenWithAuthentication\OAuth\OAuth\bin\Debug\netcoreapp2.1\OAuth.runtimeconfig.dev.json
+E:\FYP\FYP Learning Task\TokenWithAuthentication\OAuth\OAuth\bin\Debug\netcoreapp2.1\OAuth.dll
+E:\FYP\FYP Learning Task\TokenWithAuthentication\OAuth\OAuth\obj\Debug\netcoreapp2.1\OAuth.csprojAssemblyReference.cache
+E:\FYP\FYP Learning Task\TokenWithAuthentication\OAuth\OAuth\obj\Debug\netcoreapp2.1\OAuth.csproj.CoreCompileInputs.cache
+E:\FYP\FYP Learning Task\TokenWithAuthentication\OAuth\OAuth\obj\Debug\netcoreapp2.1\OAuth.RazorAssemblyInfo.cache
+E:\FYP\FYP Learning Task\TokenWithAuthentication\OAuth\OAuth\obj\Debug\netcoreapp2.1\OAuth.RazorAssemblyInfo.cs
+E:\FYP\FYP Learning Task\TokenWithAuthentication\OAuth\OAuth\obj\Debug\netcoreapp2.1\OAuth.AssemblyInfoInputs.cache
+E:\FYP\FYP Learning Task\TokenWithAuthentication\OAuth\OAuth\obj\Debug\netcoreapp2.1\OAuth.AssemblyInfo.cs
+E:\FYP\FYP Learning Task\TokenWithAuthentication\OAuth\OAuth\obj\Debug\netcoreapp2.1\OAuth.RazorTargetAssemblyInfo.cache
+E:\FYP\FYP Learning Task\TokenWithAuthentication\OAuth\OAuth\bin\Debug\netcoreapp2.1\OAuth.pdb
+E:\FYP\FYP Learning Task\TokenWithAuthentication\OAuth\OAuth\obj\Debug\netcoreapp2.1\OAuth.dll
+E:\FYP\FYP Learning Task\TokenWithAuthentication\OAuth\OAuth\obj\Debug\netcoreapp2.1\OAuth.pdb

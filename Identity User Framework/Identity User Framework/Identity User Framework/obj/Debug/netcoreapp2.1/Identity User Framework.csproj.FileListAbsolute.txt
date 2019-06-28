@@ -1,0 +1,35 @@
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\bin\Debug\netcoreapp2.1\Identity User Framework.deps.json
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\bin\Debug\netcoreapp2.1\Identity User Framework.runtimeconfig.json
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\bin\Debug\netcoreapp2.1\Identity User Framework.runtimeconfig.dev.json
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\bin\Debug\netcoreapp2.1\Identity User Framework.dll
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\bin\Debug\netcoreapp2.1\Identity User Framework.pdb
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\bin\Debug\netcoreapp2.1\Identity User Framework.Views.dll
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\bin\Debug\netcoreapp2.1\Identity User Framework.Views.pdb
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Identity User Framework.csprojAssemblyReference.cache
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Identity User Framework.csproj.CoreCompileInputs.cache
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Identity User Framework.RazorAssemblyInfo.cache
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Identity User Framework.RazorAssemblyInfo.cs
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Identity User Framework.AssemblyInfoInputs.cache
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Identity User Framework.AssemblyInfo.cs
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Identity User Framework.TagHelpers.input.cache
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Identity User Framework.TagHelpers.output.cache
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Identity User Framework.RazorCoreGenerate.cache
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Identity User Framework.RazorTargetAssemblyInfo.cache
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Identity User Framework.RazorTargetAssemblyInfo.cs
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Identity User Framework.Views.pdb
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Identity User Framework.dll
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Identity User Framework.pdb
+E:\FYP\FYP Learning Task\Identity User Framework\Identity User Framework\Identity User Framework\obj\Debug\netcoreapp2.1\Identity User Framework.csproj.CopyComplete
