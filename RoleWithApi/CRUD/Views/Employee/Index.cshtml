@@ -1,0 +1,70 @@
+﻿@model IEnumerable<CRUD.Models.Employee>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h4>Employee Register</h4>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Position)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.officeLocation)
+            </th>
+            <th>
+                <a asp-action="AddOrEdit" class="btn btn-outline-success alert-info">Add Employee</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmpCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Position)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.officeLocation)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.EmployeeId" class="btn btn-outline-success alert-success">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.EmployeeId" class="btn btn-outline-danger alert-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section scripts{
+    <script>
+        $(function () {
+            $.getJSON("https://localhost:44350/api/EmployeeApi/", function (data) {
+                
+                $.each(data, function (key, value) {
+                    items.push(value);
+                })
+                $("#data").html(items.join(""));
+            })
+
+        })
+
+    </script>
+
+
+}

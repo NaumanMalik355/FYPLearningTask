@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="CRUD20190702110558" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\FYP\\FYP\ Learning\ Task\\CRUDwithApi\\CRUD\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
