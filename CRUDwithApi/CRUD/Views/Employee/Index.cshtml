@@ -2,8 +2,6 @@
 
 @{
     ViewData["Title"] = "Index";
-    var items = (string[])ViewData["passedArray"];
-
 }
 
 <h4>Employee Register</h4>
@@ -29,7 +27,7 @@
         </tr>
     </thead>
     <tbody>
-        @foreach (var item in items)
+        @foreach (var item in Model)
         {
             <tr>
                 <td>
